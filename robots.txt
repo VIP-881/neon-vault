@@ -1,0 +1,10 @@
+# NEON VAULT 霓虹金库
+# Static, no-cookie, no-tracker H5 game.
+# Canonical origin: https://h5games-hub.vercel.app
+# LLM / generative-engine hints: see /llms.txt
+
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+Sitemap: https://h5games-hub.vercel.app/sitemap.xml
