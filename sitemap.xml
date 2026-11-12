@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://h5games-hub.vercel.app/</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://h5games-hub.vercel.app/assets/img/og-cover.png</image:loc>
+      <image:title>NEON VAULT 霓虹金库 — 赛博朋克 H5 老虎机</image:title>
+      <image:caption>5×3 霓虹转轴、10 条赔付线、免费旋转 ×2，仅使用虚拟筹码。</image:caption>
+    </image:image>
+  </url>
+</urlset>
